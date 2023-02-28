@@ -1,0 +1,1 @@
+X:\multi-project\custom-lockscreen-text-uwp\custom-lockscreen-text-uwp.csproj;x86
